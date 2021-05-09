@@ -1,4 +1,4 @@
-# k3spider_2
+# k3spider
 采用scrapy编写，
 
 用来爬取开山网k3.cn的商户信息，
